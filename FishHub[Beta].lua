@@ -5,6 +5,8 @@ elseif gameId == 142823291 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/KietVN02202/FishHub/refs/heads/main/MM2.lua"))()
 elseif gameId == 8412352352 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/KietVN02202/FishHub/refs/heads/main/AOT.lua"))()
+elseif gameId == 6447798030 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/KietVN02202/FishHub/refs/heads/main/FunkyFriday.lua"))()
 else
     print("wrong game")
 end
